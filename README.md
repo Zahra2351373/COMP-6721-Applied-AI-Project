@@ -8,10 +8,10 @@
   - [**Guidelines for accessing the dataset through provided links**](#guidelines-for-accessing-the-dataset-through-provided-links)
 
 ## **Team Formation**
-1. Anmol Majithia (40216795)
-2. Azam Arvin (40171993)
-3. Marzieh Adeli(40221843)
-4. Zahra Ebrahimi (40169858)
+1. Anmol Majithia 
+2. Azam Arvin 
+3. Marzieh Adeli
+4. Zahra Ebrahimi 
 
 ## **Presentation of the project**
 - Automated human age classification (HAC) models represent a crucial implementation of facial recognition technology across diverse industries such as marketing and healthcare. Nevertheless, accurately determining an individual's age from their facial features presents a complex challenge for AI systems due to the intricacies associated with interpreting facial images. Previous scholarly works have showcased the effectiveness of deep convolutional neural network (CNN) structures, such as ResNet and custom CNN models, in achieving accurate age classification. However, these models are constrained by their extensive computational demands and reliance on substantial amounts of training data.
