@@ -1,0 +1,16 @@
+Age Ranges:
+    1 -> 0-17
+    2 -> 18-29
+    3 -> 30-79
+    4 -> 80+
+
+Gender:
+    0 -> Male
+    1 -> Female
+
+Race:
+    0 -> White
+    1 -> Black
+    2 -> Asian
+    3 -> Indian
+    4 -> Others (like Hispanic, Latino, Middle Eastern)
